@@ -1,0 +1,6 @@
+D:\IT\C#\GameDoanSo\GameDoanSo\bin\Debug\GameDoanSo.exe.config
+D:\IT\C#\GameDoanSo\GameDoanSo\bin\Debug\GameDoanSo.exe
+D:\IT\C#\GameDoanSo\GameDoanSo\bin\Debug\GameDoanSo.pdb
+D:\IT\C#\GameDoanSo\GameDoanSo\obj\Debug\GameDoanSo.csprojResolveAssemblyReference.cache
+D:\IT\C#\GameDoanSo\GameDoanSo\obj\Debug\GameDoanSo.exe
+D:\IT\C#\GameDoanSo\GameDoanSo\obj\Debug\GameDoanSo.pdb
